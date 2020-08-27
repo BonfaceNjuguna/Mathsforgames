@@ -1,0 +1,11 @@
+D:\AIE\mathsforgamesprojects\Mathsforgames\Graphical_Test_Application\bin\Debug\Graphical_Test_Application.exe.config
+D:\AIE\mathsforgamesprojects\Mathsforgames\Graphical_Test_Application\bin\Debug\Graphical_Test_Application.exe
+D:\AIE\mathsforgamesprojects\Mathsforgames\Graphical_Test_Application\bin\Debug\Graphical_Test_Application.pdb
+D:\AIE\mathsforgamesprojects\Mathsforgames\Graphical_Test_Application\bin\Debug\Raylib-cs.dll
+D:\AIE\mathsforgamesprojects\Mathsforgames\Graphical_Test_Application\bin\Debug\System.Numerics.Vectors.dll
+D:\AIE\mathsforgamesprojects\Mathsforgames\Graphical_Test_Application\bin\Debug\Raylib-cs.pdb
+D:\AIE\mathsforgamesprojects\Mathsforgames\Graphical_Test_Application\obj\Debug\Graphical_Test_Application.csprojAssemblyReference.cache
+D:\AIE\mathsforgamesprojects\Mathsforgames\Graphical_Test_Application\obj\Debug\Graphical_Test_Application.csproj.CoreCompileInputs.cache
+D:\AIE\mathsforgamesprojects\Mathsforgames\Graphical_Test_Application\obj\Debug\Graphical_Test_Application.csproj.CopyComplete
+D:\AIE\mathsforgamesprojects\Mathsforgames\Graphical_Test_Application\obj\Debug\Graphical_Test_Application.exe
+D:\AIE\mathsforgamesprojects\Mathsforgames\Graphical_Test_Application\obj\Debug\Graphical_Test_Application.pdb
